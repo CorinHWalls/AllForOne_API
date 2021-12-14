@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6U7ThrZhAf+c9N6fxGa1ey3XkMu4abOUaUdfngeOO0IEqqcxbNC5O7XZ+R5RyrCFeZsR6VUdp8Gsr5QbHdH0oA==",
+  "dgSpecHash": "S6E646iP+RtdRTnD9ra4itamQgn6ZvI3MV3d+Ni2ZRF24Co+q+Q9XpyxEvmwPvlPXRRSk9lMLYE/4zcylV0Nng==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Corin\\Desktop\\Development\\HTML Projects\\Level 2 Projects\\AllForOne\\AllForOne.csproj",
+  "projectFilePath": "C:\\Users\\Corin\\Desktop\\Development\\HTML Projects\\Level 2 Projects\\AllForOneAPI\\AllForOne.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Corin\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\Corin\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

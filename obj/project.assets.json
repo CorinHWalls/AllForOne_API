@@ -213,11 +213,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Corin\\Desktop\\Development\\HTML Projects\\Level 2 Projects\\AllForOne\\AllForOne.csproj",
+      "projectUniqueName": "C:\\Users\\Corin\\Desktop\\Development\\HTML Projects\\Level 2 Projects\\AllForOneAPI\\AllForOne.csproj",
       "projectName": "AllForOne",
-      "projectPath": "C:\\Users\\Corin\\Desktop\\Development\\HTML Projects\\Level 2 Projects\\AllForOne\\AllForOne.csproj",
+      "projectPath": "C:\\Users\\Corin\\Desktop\\Development\\HTML Projects\\Level 2 Projects\\AllForOneAPI\\AllForOne.csproj",
       "packagesPath": "C:\\Users\\Corin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Corin\\Desktop\\Development\\HTML Projects\\Level 2 Projects\\AllForOne\\obj\\",
+      "outputPath": "C:\\Users\\Corin\\Desktop\\Development\\HTML Projects\\Level 2 Projects\\AllForOneAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Corin\\AppData\\Roaming\\NuGet\\NuGet.Config"

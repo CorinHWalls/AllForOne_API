@@ -19,7 +19,7 @@ namespace AllForOne.Controllers
             data = dataFromService;
         }
         //Default Route
-        [HttpGet]
+        [HttpPost]
 
         public int AddingTwoNumbers(TwoNumbersModel userinput)
         {

@@ -19,6 +19,7 @@ namespace AllForOne.Controllers
             data = dataFromService;
         }
 
+         [HttpPost]
         public string OddEven(OddEvenModel userinput)
         {
             return data.OddEven(userinput);

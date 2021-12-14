@@ -23,7 +23,7 @@ namespace AllForOne.Controllers
             data = dataFromService;
         }
        
-        [HttpGet]
+        [HttpPost]
 
         public string AskingQuestions(AskingQuestionModel userinput)
         {

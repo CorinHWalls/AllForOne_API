@@ -20,7 +20,7 @@ namespace AllForOne.Controllers
         }
        
        
-        [HttpGet]
+        [HttpPost]
         public string SayHello(SayHelloModel userinput)
         {
             return data.SayHello(userinput);

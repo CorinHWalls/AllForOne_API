@@ -19,7 +19,7 @@ namespace AllForOne.Controllers
         {
             data = dataFromService;
         }
-        [HttpGet]
+        [HttpPost]
         public string GreaterOrLess(GreaterOrLessModel userinput)
         {
             return data.GreaterOrLess(userinput);
